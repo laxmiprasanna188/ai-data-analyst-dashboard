@@ -27,5 +27,4 @@ This project is an AI-powered data analyst dashboard that allows users to upload
 ## 📊 Sample Use Case
 Analyze sales data to find trends and insights.
 
-## 📸 Screenshots
-(Add your project screenshots here)
+
